@@ -1,16 +1,16 @@
 {
-"name": "mc569bet",
-"theme": "mc569bet",
-"version": "1.9.5",
-"description": "mc569bet สมัครสมาชิกเว็บบาคาร่าเว็บตรง ไม่มีขั้นต่ำ ให้โบนัสเครดิตฟรี",
-"keywords": [
-"mc569bet",
-"mc569bet เครดิตฟรี",
-"mc569bet ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/mc569bet",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "mc569bet",
+  "theme": "mc569bet",
+  "version": "1.10.0",
+  "description": "mc569bet สมัครสมาชิกเว็บบาคาร่าเว็บตรง ไม่มีขั้นต่ำ ให้โบนัสเครดิตฟรี",
+  "keywords": [
+    "mc569bet",
+    "mc569bet เครดิตฟรี",
+    "mc569bet ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/mc569bet",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
